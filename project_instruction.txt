@@ -1,0 +1,49 @@
+INSTRUCTIONS
+The PowerProject tool company is one 
+of the leaders in power tools for the 
+average handyman and homeowner. 
+The company recently hired you to 
+develop a page on its website for its 
+new line of cordless chainsaws, leaf 
+blowers, pole saws, and lawnmowers. 
+You must create a web page for this 
+line of tools known as the KLE550 
+series that uses 45V lithium-ion batteries. You’ll download the following files 
+from your student portal:
+1. Overview and features of the 
+KLE550 series of tools
+2. Image files and logo displaying the logo for the new tool series
+3. PowerProject.jpg, an image of the PowerProject tool company logo
+FIGURE 15—PowerProject logo.
+© PENN FOSTER, INC. 2017 HTML CODING PAGE 48
+Lesson 3
+You can also supplement these files with any other resources you have. You’re responsible 
+for the content and appearance of the page.
+To complete this task:
+1. Create an XHTML file named PowerProjectKLE500.htm.
+2. In the head element, include the appropriate page title along with a comment that 
+describes the purpose and content of the page, your name, and the date.
+3. Include or demonstrate at least one example of each of the following in the 
+document:
+a. Different colors of text boxes and backgrounds with appropriate contrast
+b. Two different styles of text
+c. Box with one of the following attributes:
+ i. Border image
+ ii. Shadow
+ iii. Rounded corners
+d. Table with appropriate cell margins and spacing
+e. Bulleted list with one or more point styles from pages 333‒334
+e. Form with all the following attributes:
+ i. Text input (size appropriately)
+ ii. Password
+ iii. Text area
+ iv. Select box
+ v. Radio buttons
+ vi. Checkboxes
+5. Demonstrate your understanding of creating a list, table, or form.
+6. User proper XHTML and CSS syntax at all times.
+7. Write your code and comments so that it will be easy to understand and read.
+8. After completing the page, validate your code using the XHTML validator at 
+http://validator.w3.org/.
+9. Save your XHTML file and then view the resulting page in a browser.
+10. Submit your completed project.
